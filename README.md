@@ -1,13 +1,2 @@
-# MSc-Test-Website-PHP
-
-ΘΑ ΠΡΕΠΕΙ ΝΑ ΑΝΤΙΚΑΤΑΣΤΑΘΕΙ Ο ΚΩΔΙΚΟΣ ΣΤΑ ΑΡΧΕΙΑ PHP ΓΙΑ ΤΗΝ ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ ΜΕ ΤΑ ΔΙΚΑ ΣΑΣ .
-
-ΓΙΑ ΤΗΝ ΟΡΘΗ ΛΕΙΤΟΥΡΓΙΑ ΤΗΣ ΦΟΡΜΑΣ ΕΓΓΡΑΦΗΣ ΤΗΣ ΙΣΤΟΣΕΛΙΔΑΣ ΘΑ ΠΡΕΠΕΙ ΝΑ ΑΚΟΛΟΥΘΗΣΕΤΕ ΤΑ ΒΗΜΑΤΑ ΑΠΟ ΤΟ Β ΣΚΕΛΟΣ ΤΗΣ ΑΣΚΗΣΗΣ (PHP MY SQL) ΚΑΙ ΝΑ ΕΚΤΕΛΕΣΕΤΕ ΤΟ i και το ii
-
-i) 
-http://127.0.0.1/ergasia/ergasia_b/1_create_database.php
-
-ii) 
-http://127.0.0.1/ergasia/ergasia_b/2_create_table.php
-
-ΩΣΤΕ ΝΑ ΔΗΜΙΟΥΡΓΗΘΕΙ Η ΒΑΣΗ ΚΑΙ Ο ΠΙΝΑΚΑΣ ΓΙΑ ΤΗΝ ΑΠΟΘΗΚΕΥΣΗ ΤΩΝ ΔΕΔΟΜΕΝΩΝ ΤΗΣ ΦΟΡΜΑΣ
+A simple PHP website with user registration functionality and MySQL database integration.
+This project was created as part of an MSc assignment for  EDBM@UOWM ,to demonstrate basic web development skills with PHP and database connectivity.
